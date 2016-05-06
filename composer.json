@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/yii2-product",
+    "description": "Yii2 Product",
+    "homepage": "https://github.com/giicms/yii2-product",
+    "keywords": ["yii2","product"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\product\\": ""
+        }
+    }
+}
